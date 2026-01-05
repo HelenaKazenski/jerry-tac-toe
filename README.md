@@ -1,3 +1,5 @@
+<img width="405" alt="Screenshot 2026-01-05 at 12 41 03 PM" src="https://github.com/user-attachments/assets/c559ba6c-178f-4355-a9d4-2c785bd6ffa5" />
+
 # **Jerry-Tac-Toe**
 
 Jerry-Tac-Toe is a Java-based desktop game that reimagines classic Tic-Tac-Toe with a creative twist and a randomized computer 
