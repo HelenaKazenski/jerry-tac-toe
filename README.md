@@ -71,4 +71,4 @@ Java, GUI development, and game state management, while reinforcing object-orien
 complete desktop application.
 
 # **Credits**
--Built by Helena Kazenski (April 2025)
+- Created by Helena Kazenski (April 2025)
